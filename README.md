@@ -14,3 +14,6 @@
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* 
+
+## Spoilers
+This is no general solution and the site will be updated with our campaign progress. Therefore there might be spoilers and you're viewing at your own risk.
