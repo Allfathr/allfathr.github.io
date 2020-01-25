@@ -9,5 +9,8 @@
 
 ###### Blaze of Glory
 
+## Länkar
+allfathr.github.io/Interactive-map.pdf
+
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* 
