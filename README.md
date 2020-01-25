@@ -1,6 +1,6 @@
 # Gloomhaven kampanjstatus
 
-##  [Vadstena Kloster](allfathr.github.io/partysheet.pdf)
+##  [Vadstena Kloster](allfathr.github.io/partysheet.png)
 [Wetwork](allfathr.github.io/cragheart.png)
 
 [Voldermort1](allfathr.github.io/tinkerer.png)
