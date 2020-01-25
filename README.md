@@ -8,3 +8,6 @@
 ###### Skrallex
 
 ###### Blaze of Glory
+
+## Thanks
+BoardGameGeek user *paddirn* for *Interactive Map* 
