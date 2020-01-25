@@ -1,13 +1,13 @@
 # Gloomhaven kampanjstatus
 
 ##  [Vadstena Kloster](allfathr.github.io/partysheet.pdf)
-[Wetwork](allfathr.github.io/cragheart.pdf)
+[Wetwork](allfathr.github.io/cragheart.png)
 
-[Voldermort1](allfathr.github.io/tinkerer.pdf)
+[Voldermort1](allfathr.github.io/tinkerer.png)
 
-[Skrallex](allfathr.github.io/mindthief.pdf)
+[Skrallex](allfathr.github.io/mindthief.png)
 
-[Blaze of Glory](allfathr.github.io/spellweaver.pdf)
+[Blaze of Glory](allfathr.github.io/spellweaver.png)
 
 ## Länkar
 [Karta](allfathr.github.io/map.png)  
