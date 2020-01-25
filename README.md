@@ -1,16 +1,17 @@
 # Gloomhaven kampanjstatus
 
 ## Vadstena Kloster
-###### Wetwork
+###### [Wetwork](allfathr.github.io/cragheart.pdf)
 
-###### Voldemort1
+###### [Voldermort1](allfathr.github.io/tinkerer.pdf)
 
-###### Skrallex
+###### [Skrallex](allfathr.github.io/mindthief.pdf)
 
-###### Blaze of Glory
+###### [Blaze of Glory](allfathr.github.io/spellweaver.pdf)
 
 ## Länkar
 [Karta](allfathr.github.io/Interactive-map.pdf)
+[Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o.pdf)
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* 
