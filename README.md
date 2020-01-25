@@ -11,7 +11,7 @@
 
 ## Länkar
 [Karta](allfathr.github.io/Interactive-map.pdf)  
-[Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o.pdf)
+[Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* 
