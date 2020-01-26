@@ -10,7 +10,7 @@
 [Blaze of Glory](allfathr.github.io/spellweaver.png)
 
 ## Länkar
-[Karta](allfathr.github.io/map.jpg)  
+[Karta](allfathr.github.io/map.png)  
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Thanks
