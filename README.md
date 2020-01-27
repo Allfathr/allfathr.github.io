@@ -13,7 +13,7 @@
 [Karta](allfathr.github.io/map.png)  
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
-## Item shop
+## [Item shop](allfathr.github.io/ITEM-SHOP.md)
 <p float="left">
   <img src="firstset/boots-of-striding.png" alt="drawing" width="200"/>
   <img src="firstset/cloak-of-invisibility.png" alt="drawing" width="200"/>
