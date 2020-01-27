@@ -14,7 +14,7 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Item shop
-![Boots](allfathr.github.io/firstset/boots-of-striding.png)
+![Boots](allfathr.github.io/firstset/boots-of-striding.png =250x)
 
 ## Anteckningar till nästa gång
 * Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
