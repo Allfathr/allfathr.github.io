@@ -44,7 +44,6 @@
 * Man får bara välja ett nytt kort när man har levlat till sina abilites. (Kan diskuteras att man lägger till en personlig regel i stil med vissa RPGer att man kan betala för en skill reset.)
 * Perks med flera checkrutor kan väljas flera gånger.
 * Donera till Sanctuary.
-* 
 
 
 ## Thanks
