@@ -1,7 +1,7 @@
 # Gloomhaven kampanjstatus
 
 ##  [Vadstena Kloster](allfathr.github.io/partysheet.png)
-[Wetwork](allfathr.github.io/players/cragheart.png)
+[Kardemumma](allfathr.github.io/players/cragheart.png)
 
 [Voldermort1](allfathr.github.io/players/tinkerer.png)
 
@@ -38,6 +38,13 @@
 * Vi har kört på en nivå högre än den normala dvs hard difficulty.  
 * Om det är en attack som träffar ett område behöver inte hexagonen ha ett monster.  
 * Man kan inte skapa och använda ett element på sin runda. Däremot kan en annan skapa ett element och du kan sen använda det på din runda.
+* Ett monster måste ha "move" på sitt ability card för att gå.
+* Allt som inte är lootat när scenariot är klart, försvinner.
+* När man levlar upp får man välja en perk.
+* Man får bara välja ett nytt kort när man har levlat till sina abilites. (Kan diskuteras att man lägger till en personlig regel i stil med vissa RPGer att man kan betala för en skill reset.)
+* Perks med flera checkrutor kan väljas flera gånger.
+* Donera till Sanctuary.
+* 
 
 
 ## Thanks
