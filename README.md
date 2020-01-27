@@ -14,7 +14,8 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Anteckningar till nästa gång
-Potions går inte tillbaka till affären utan refreshas mellan varje scenario.
+Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
+Kolla om det finns mer av item 78 som ska till affären.
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* and *Fillable party sheet PDF*  
