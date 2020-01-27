@@ -14,10 +14,21 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Item shop
-![Boots](allfathr.github.io/firstset/boots-of-striding.png)
-!(firstset/cloak-of-invisibility.png)
+<img src="firstset/boots-of-striding.png" alt="drawing" width="200"/>
+<img src="firstset/cloak-of-invisibility.png" alt="drawing" width="200"/>
 <img src="firstset/eagle-eye-goggles.png" alt="drawing" width="200"/>
-<img src="allfathr.github.io/firstset/heater-shield.png" alt="drawing" width="200"/>
+<img src="firstset/heater-shield.png" alt="drawing" width="200"/>
+<img src="firstset/hide-armor.png" alt="drawing" width="200"/>
+<img src="firstset/iron-helmet.png" alt="drawing" width="200"/>
+<img src="firstset/leather-armor.png" alt="drawing" width="200"/>
+<img src="firstset/minor-healing-potion.png" alt="drawing" width="200"/>
+<img src="firstset/minor-power-potion.png" alt="drawing" width="200"/>
+<img src="firstset/minor-stamina-potion.png" alt="drawing" width="200"/>
+<img src="firstset/piercing-bow.png" alt="drawing" width="200"/>
+<img src="firstset/poison-daggers.png" alt="drawing" width="200"/>
+<img src="firstset/war-hammer.png" alt="drawing" width="200"/>
+<img src="firstset/winged-shoes.png" alt="drawing" width="200"/>
+<img src="firstset/storm-blade.png" alt="drawing" width="200"/>
 
 ## Anteckningar till nästa gång
 * Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
