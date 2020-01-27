@@ -14,11 +14,11 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Anteckningar till nästa gång
-*Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
-*Kolla om det finns mer av item 78 som ska till affären.  
-*Vi har kört på en nivå högre än den normala dvs hard difficulty.  
-*Om det är en attack som träffar ett område behöver inte hexagonen ha ett monster.  
-*Man kan inte skapa och använda ett element på sin runda. Däremot kan en annan skapa ett element och du kan sen använda det på din runda.
+* Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
+* Kolla om det finns mer av item 78 som ska till affären.  
+* Vi har kört på en nivå högre än den normala dvs hard difficulty.  
+* Om det är en attack som träffar ett område behöver inte hexagonen ha ett monster.  
+* Man kan inte skapa och använda ett element på sin runda. Däremot kan en annan skapa ett element och du kan sen använda det på din runda.
 
 
 ## Thanks
