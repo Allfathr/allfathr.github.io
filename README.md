@@ -14,11 +14,7 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Item shop
-<style>
-  div.container {
-    display:inline-block;
-  }
-</style>
+
 <div class="container">
   <img src="firstset/boots-of-striding.png" alt="drawing" width="200"/>
 </div>
@@ -51,7 +47,7 @@
 </div>  
 <div class="container">
   <img src="firstset/piercing-bow.png" alt="drawing" width="200"/>
-  
+</div>  
 <div class="container">
   <img src="firstset/poison-daggers.png" alt="drawing" width="200"/>
 </div>  
