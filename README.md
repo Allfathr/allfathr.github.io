@@ -13,6 +13,9 @@
 [Karta](allfathr.github.io/map.png)  
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
+## Item shop
+![Boots](allfathr.github.io/firstset/boots-of-striding.png)
+
 ## Anteckningar till nästa gång
 * Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
 * Kolla om det finns mer av item 78 som ska till affären.  
