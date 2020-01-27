@@ -14,52 +14,31 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Item shop
-
-<div class="container">
+<p float="left">
   <img src="firstset/boots-of-striding.png" alt="drawing" width="200"/>
-</div>
-<div class="container">
   <img src="firstset/cloak-of-invisibility.png" alt="drawing" width="200"/>
-</div>
-<div class="container">
   <img src="firstset/eagle-eye-goggles.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
   <img src="firstset/heater-shield.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
   <img src="firstset/hide-armor.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
   <img src="firstset/iron-helmet.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+</p>
   <img src="firstset/leather-armor.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+
   <img src="firstset/minor-healing-potion.png" alt="drawing" width="200"/>
-</div> 
-<div class="container">
+
   <img src="firstset/minor-power-potion.png" alt="drawing" width="200"/>
-</div> 
-<div class="container">
+
   <img src="firstset/minor-stamina-potion.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+
   <img src="firstset/piercing-bow.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+
   <img src="firstset/poison-dagger.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+
   <img src="firstset/war-hammer.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+
   <img src="firstset/winged-shoes.png" alt="drawing" width="200"/>
-</div>  
-<div class="container">
+
   <img src="firstset/storm-blade.png" alt="drawing" width="200"/>
-</div>
 
 ## Anteckningar till nästa gång
 * Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
