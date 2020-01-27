@@ -21,24 +21,16 @@
   <img src="firstset/heater-shield.png" alt="drawing" width="200"/>
   <img src="firstset/hide-armor.png" alt="drawing" width="200"/>
   <img src="firstset/iron-helmet.png" alt="drawing" width="200"/>
-</p>
   <img src="firstset/leather-armor.png" alt="drawing" width="200"/>
-
   <img src="firstset/minor-healing-potion.png" alt="drawing" width="200"/>
-
   <img src="firstset/minor-power-potion.png" alt="drawing" width="200"/>
-
   <img src="firstset/minor-stamina-potion.png" alt="drawing" width="200"/>
-
   <img src="firstset/piercing-bow.png" alt="drawing" width="200"/>
-
   <img src="firstset/poison-dagger.png" alt="drawing" width="200"/>
-
   <img src="firstset/war-hammer.png" alt="drawing" width="200"/>
-
   <img src="firstset/winged-shoes.png" alt="drawing" width="200"/>
-
   <img src="firstset/storm-blade.png" alt="drawing" width="200"/>
+</p>
 
 ## Anteckningar till nästa gång
 * Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
