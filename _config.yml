@@ -4,3 +4,5 @@ description: Här samlas information om kampanjen och bra länkar.
 header_pages: 
  - README.md
  - ITEM-SHOP.md
+
+theme: jekyll-theme-cayman
