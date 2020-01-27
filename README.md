@@ -15,7 +15,9 @@
 
 ## Anteckningar till nästa gång
 Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
-Kolla om det finns mer av item 78 som ska till affären.
+Kolla om det finns mer av item 78 som ska till affären.  
+Vi har kört på en nivå högre än den normala dvs hard difficulty.  
+
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* and *Fillable party sheet PDF*  
