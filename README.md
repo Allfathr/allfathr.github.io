@@ -49,7 +49,7 @@
   <img src="firstset/piercing-bow.png" alt="drawing" width="200"/>
 </div>  
 <div class="container">
-  <img src="firstset/poison-daggers.png" alt="drawing" width="200"/>
+  <img src="firstset/poison-dagger.png" alt="drawing" width="200"/>
 </div>  
 <div class="container">
   <img src="firstset/war-hammer.png" alt="drawing" width="200"/>
