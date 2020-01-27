@@ -17,6 +17,8 @@
 Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
 Kolla om det finns mer av item 78 som ska till affären.  
 Vi har kört på en nivå högre än den normala dvs hard difficulty.  
+Om det är en attack som träffar ett område behöver inte hexagonen ha ett monster.  
+
 
 
 ## Thanks
