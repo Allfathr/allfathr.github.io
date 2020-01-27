@@ -42,7 +42,7 @@
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* and *Fillable party sheet PDF*  
-BoardGameGeek user *Nickbarrett16* for *Fillable character PDFs*
+BoardGameGeek user *Nickbarrett16* for *Fillable character PDFs*  
 Github user *any2cards* for item images.
 
 
