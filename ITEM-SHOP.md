@@ -1,3 +1,3 @@
-layout: page
-title: Svärd och skit
+layout: page  
+title: Svärd och skit  
 permalink: /items/
