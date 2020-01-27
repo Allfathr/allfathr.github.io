@@ -14,7 +14,10 @@
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Item shop
-![Boots](allfathr.github.io/firstset/boots-of-striding.png =250x)
+![Boots](allfathr.github.io/firstset/boots-of-striding.png)
+!(firstset/cloak-of-invisibility.png)
+<img src="firstset/eagle-eye-goggles.png" alt="drawing" width="200"/>
+<img src="allfathr.github.io/firstset/heater-shield.png" alt="drawing" width="200"/>
 
 ## Anteckningar till nästa gång
 * Potions går inte tillbaka till affären utan refreshas mellan varje scenario.  
