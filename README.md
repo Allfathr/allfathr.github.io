@@ -1,7 +1,7 @@
 # Gloomhaven kampanjstatus
 
 ##  [Vadstena Kloster](allfathr.github.io/partysheet.png)
-[Kardemumma](allfathr.github.io/players/cragheart.png)
+[Kardemummo](allfathr.github.io/players/cragheart.png)
 
 [Voldermort1](allfathr.github.io/players/tinkerer.png)
 
