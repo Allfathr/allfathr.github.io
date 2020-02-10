@@ -34,7 +34,7 @@
 
 ## Anteckningar till nästa gång
 * Om den som retaliatar dör, aktiveras inte retaliaten.
-
+* Ett monster som attackerar flera kommer placera sig i den mån att flera kan träffas.
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* and *Fillable party sheet PDF*  
