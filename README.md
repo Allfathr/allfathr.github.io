@@ -35,6 +35,7 @@
 ## Anteckningar till nästa gång
 * Om den som retaliatar dör, aktiveras inte retaliaten.
 * Ett monster som attackerar flera kommer placera sig i den mån att flera kan träffas.
+* Vi har inte låst upp scenario 31 och 43.
 
 ## Thanks
 BoardGameGeek user *paddirn* for *Interactive Map* and *Fillable party sheet PDF*  
