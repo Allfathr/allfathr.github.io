@@ -30,6 +30,8 @@
   <img src="firstset/war-hammer.png" alt="drawing" width="150"/>
   <img src="firstset/winged-shoes.png" alt="drawing" width="150"/>
   <img src="firstset/storm-blade.png" alt="drawing" width="150"/>
+  <img src="firstset/curious-gear.png" alt="drawing" width="150"/>
+  <img src="firstset/ring-of-skulls.png" alt="drawing" width="150"/>
 </p>
 
 ## Anteckningar till nästa gång
