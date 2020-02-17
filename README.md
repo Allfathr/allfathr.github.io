@@ -34,6 +34,7 @@
   <img src="firstset/storm-blade.png" alt="drawing" width="150"/>
   <img src="firstset/curious-gear.png" alt="drawing" width="150"/>
   <img src="firstset/ring-of-skulls.png" alt="drawing" width="150"/>
+  <img src="firstset/power-core.png" alt="drawing" width="150"/>
 </p>
 
 ## Anteckningar till nästa gång
