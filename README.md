@@ -1,18 +1,18 @@
 # Gloomhaven kampanjstatus
 
-##  [Vadstena Kloster](allfathr.github.io/partysheet.png)
-[Kardemummo](allfathr.github.io/players/cragheart.png)
+##  [Vadstena Kloster](asandstroem.github.io/partysheet.png)
+[Kardemummo](asandstroem.github.io/players/cragheart.png)
 
-[Voldermort1](allfathr.github.io/players/tinkerer.png)
+[Voldermort1](asandstroem.github.io/players/tinkerer.png)
 
-[Skrallex](allfathr.github.io/players/mindthief.png)
+[Skrallex](asandstroem.github.io/players/mindthief.png)
 
-[Blaze of Glory](allfathr.github.io/players/spellweaver.png)
+[Blaze of Glory](asandstroem.github.io/players/spellweaver.png)
 
-[GORM](allfathr.github.io/players/brute.png)
+[GORM](asandstroem.github.io/players/brute.png)
 
 ## Länkar
-[Karta](allfathr.github.io/map.png)  
+[Karta](asandstroem.github.io/map.png)  
 [Regelbok](https://drive.google.com/open?id=10Sjmjdyc2Fan62Ubi1LsHXtTz2r5wU-o)
 
 ## Item shop
